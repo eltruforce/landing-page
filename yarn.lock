@@ -1036,12 +1036,11 @@
   dependencies:
     "@mantine/ssr" "4.1.0"
 
-"@mantine/notifications@4.1.0":
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/@mantine/notifications/-/notifications-4.1.0.tgz#5f0291a72f2056ca783f9072d61bfedb2b2da194"
-  integrity sha512-2pdRiK4UVDSHeCcHLSY7GFyXXn4t9HkoVqypXPwybWDBeT6tSOry+5l/+/HKhOpSPktxWykr+4OACUhtBYn5dg==
+"@mantine/notifications@4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@mantine/notifications/-/notifications-4.2.1.tgz#2bff96858bc6357f017439df12165b31d4f395bd"
+  integrity sha512-16jqAMwdANexOpVmBFwquP6nAJQPDBWmhEcf6Fm4mFhB8wpBX5nKepUsa+In49CvfPBHMEsROrJ4YqcwoP8Eig==
   dependencies:
-    clsx "^1.1.1"
     react-transition-group "^4.4.2"
 
 "@mantine/ssr@4.1.0":
